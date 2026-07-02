@@ -1,0 +1,21 @@
+{
+  "name": "Next.js AI ChatBot",
+  "short_name": "Chatbot",
+  "description": "Offline Chatbot",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icons/dog.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/dog.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
